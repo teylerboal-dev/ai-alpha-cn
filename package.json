@@ -1,0 +1,11 @@
+{
+  "name": "ai-alpha-cn",
+  "version": "1.0.0",
+  "description": "海外 AI 一手信息差 24/7 中文情报站 — 每日自动抓取 GitHub 新晋 AI 爆款与 Hacker News 前沿动态。",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-alpha.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "license": "MIT"
+}

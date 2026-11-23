@@ -1,0 +1,262 @@
+{
+  "generatedAt": "2026-11-23T15:09:12.558Z",
+  "counts": {
+    "github": 15,
+    "hn": 0,
+    "total": 15
+  },
+  "items": [
+    {
+      "id": "gh-1459971684",
+      "source": "GitHub",
+      "title": "erkamyaman/rust-anything",
+      "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "language": "Rust",
+      "stars": 8543,
+      "points": 0,
+      "comments": 33,
+      "publishedAt": "2026-11-16T12:10:36Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1466635339",
+      "source": "GitHub",
+      "title": "EL4CTEO/fast-anything",
+      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "language": "Rust",
+      "stars": 2859,
+      "points": 0,
+      "comments": 4,
+      "publishedAt": "2026-11-21T14:40:27Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1464271688",
+      "source": "GitHub",
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "language": "Multi",
+      "stars": 2762,
+      "points": 0,
+      "comments": 61,
+      "publishedAt": "2026-11-19T14:43:10Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1463963309",
+      "source": "GitHub",
+      "title": "iamajmeena/neonclipping",
+      "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "language": "Python",
+      "stars": 2259,
+      "points": 0,
+      "comments": 31,
+      "publishedAt": "2026-11-19T10:00:43Z",
+      "tags": [
+        "模型 / 推理加速"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1460417668",
+      "source": "GitHub",
+      "title": "sybil-solutions/inference-optimisation-skill",
+      "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "language": "Python",
+      "stars": 2067,
+      "points": 0,
+      "comments": 20,
+      "publishedAt": "2026-11-16T18:40:04Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1457509118",
+      "source": "GitHub",
+      "title": "haziqahmedqasmi/PeakCut",
+      "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut",
+      "language": "Python",
+      "stars": 1827,
+      "points": 0,
+      "comments": 58,
+      "publishedAt": "2026-11-14T07:38:20Z",
+      "tags": [
+        "前沿开源"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1457270665",
+      "source": "GitHub",
+      "title": "duwqijlk/muse-protocol",
+      "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "language": "Python",
+      "stars": 1770,
+      "points": 0,
+      "comments": 4,
+      "publishedAt": "2026-11-14T01:24:58Z",
+      "tags": [
+        "前沿开源"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1460452633",
+      "source": "GitHub",
+      "title": "pierridotite/mobile-agent-testers",
+      "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "url": "https://github.com/pierridotite/mobile-agent-testers",
+      "language": "Python",
+      "stars": 1258,
+      "points": 0,
+      "comments": 0,
+      "publishedAt": "2026-11-16T19:11:44Z",
+      "tags": [
+        "Agent / 自动化",
+        "AI 编程工具"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1460180740",
+      "source": "GitHub",
+      "title": "boringmarketer/boring-marketing-skills",
+      "summary": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "language": "Python",
+      "stars": 806,
+      "points": 0,
+      "comments": 2,
+      "publishedAt": "2026-11-16T15:09:46Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 96
+    },
+    {
+      "id": "gh-1457605310",
+      "source": "GitHub",
+      "title": "mankidev/antialgorithm",
+      "summary": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+      "url": "https://github.com/mankidev/antialgorithm",
+      "language": "Python",
+      "stars": 762,
+      "points": 0,
+      "comments": 0,
+      "publishedAt": "2026-11-14T09:48:23Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 95
+    },
+    {
+      "id": "gh-1463683138",
+      "source": "GitHub",
+      "title": "INK-Q/agy-fast",
+      "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "language": "TypeScript",
+      "stars": 741,
+      "points": 0,
+      "comments": 22,
+      "publishedAt": "2026-11-19T04:58:46Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 95
+    },
+    {
+      "id": "gh-1465531278",
+      "source": "GitHub",
+      "title": "danielwh2/sprite-stacking",
+      "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "url": "https://github.com/danielwh2/sprite-stacking",
+      "language": "HTML",
+      "stars": 593,
+      "points": 0,
+      "comments": 1,
+      "publishedAt": "2026-11-20T14:32:43Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 91
+    },
+    {
+      "id": "gh-1464795219",
+      "source": "GitHub",
+      "title": "ThreatDefence/agentic-attack-detections",
+      "summary": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "language": "Python",
+      "stars": 523,
+      "points": 0,
+      "comments": 5,
+      "publishedAt": "2026-11-20T00:06:24Z",
+      "tags": [
+        "Agent / 自动化",
+        "模型 / 推理加速"
+      ],
+      "alphaScore": 90
+    },
+    {
+      "id": "gh-1466272233",
+      "source": "GitHub",
+      "title": "w01fb0ss/PiBot",
+      "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "language": "TypeScript",
+      "stars": 480,
+      "points": 0,
+      "comments": 6,
+      "publishedAt": "2026-11-21T06:54:24Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
+      ],
+      "alphaScore": 89
+    },
+    {
+      "id": "gh-1459020341",
+      "source": "GitHub",
+      "title": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+      "language": "Makefile",
+      "stars": 468,
+      "points": 0,
+      "comments": 0,
+      "publishedAt": "2026-11-15T16:48:18Z",
+      "tags": [
+        "MCP / 协议生态",
+        "模型 / 推理加速"
+      ],
+      "alphaScore": 88
+    }
+  ]
+}
