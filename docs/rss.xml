@@ -4,7 +4,7 @@
     <title>AI Alpha CN · 海外 AI 一手信息差日报</title>
     <link>https://teylerboal-dev.github.io/ai-alpha-cn/</link>
     <description>每日自动抓取海外 GitHub 新晋 AI 爆款与 Hacker News 前沿热议，专为中文开发者与独立变现者打造。</description>
-    <lastBuildDate>Tue, 24 Nov 2026 07:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:35:31 GMT</lastBuildDate>
     <item>
       <title>[GitHub] erkamyaman/rust-anything</title>
       <link>https://github.com/erkamyaman/rust-anything</link>
@@ -18,16 +18,16 @@
       <pubDate>Sat, 21 Nov 2026 14:40:27 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] iamajmeena/neonclipping</title>
-      <link>https://github.com/iamajmeena/neonclipping</link>
-      <description>模型 / 推理加速 · Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).</description>
-      <pubDate>Thu, 19 Nov 2026 10:00:43 GMT</pubDate>
-    </item>
-    <item>
       <title>[GitHub] sybil-solutions/inference-optimisation-skill</title>
       <link>https://github.com/sybil-solutions/inference-optimisation-skill</link>
       <description>Agent / 自动化 / MCP / 协议生态 · Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization</description>
       <pubDate>Mon, 16 Nov 2026 18:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[GitHub] iamajmeena/neonclipping</title>
+      <link>https://github.com/iamajmeena/neonclipping</link>
+      <description>模型 / 推理加速 · Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).</description>
+      <pubDate>Thu, 19 Nov 2026 10:00:43 GMT</pubDate>
     </item>
     <item>
       <title>[GitHub] pierridotite/mobile-agent-testers</title>
@@ -54,10 +54,16 @@
       <pubDate>Fri, 20 Nov 2026 14:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] ThreatDefence/agentic-attack-detections</title>
-      <link>https://github.com/ThreatDefence/agentic-attack-detections</link>
-      <description>Agent / 自动化 / 模型 / 推理加速 · Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.</description>
-      <pubDate>Fri, 20 Nov 2026 00:06:24 GMT</pubDate>
+      <title>[GitHub] sous-labs/songe</title>
+      <link>https://github.com/sous-labs/songe</link>
+      <description>Agent / 自动化 / AI 编程工具 · A training engine for your local model, using your idle compute</description>
+      <pubDate>Fri, 20 Nov 2026 11:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[GitHub] qianyiai/kurocat</title>
+      <link>https://github.com/qianyiai/kurocat</link>
+      <description>MCP / 协议生态 · KuroCat — Free open-source desktop typing cat pet &amp; OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）</description>
+      <pubDate>Sat, 21 Nov 2026 15:49:31 GMT</pubDate>
     </item>
     <item>
       <title>[GitHub] erkamyaman/safe-anything</title>
@@ -66,10 +72,10 @@
       <pubDate>Sun, 22 Nov 2026 16:44:10 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] w01fb0ss/PiBot</title>
-      <link>https://github.com/w01fb0ss/PiBot</link>
-      <description>Agent / 自动化 / MCP / 协议生态 · Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.</description>
-      <pubDate>Sat, 21 Nov 2026 06:54:24 GMT</pubDate>
+      <title>[GitHub] ThreatDefence/agentic-attack-detections</title>
+      <link>https://github.com/ThreatDefence/agentic-attack-detections</link>
+      <description>Agent / 自动化 / 模型 / 推理加速 · Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.</description>
+      <pubDate>Fri, 20 Nov 2026 00:06:24 GMT</pubDate>
     </item>
     <item>
       <title>[GitHub] xikhar/papercraft</title>
@@ -78,22 +84,16 @@
       <pubDate>Sat, 21 Nov 2026 00:29:56 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] YellowLaborerMarket/Gemini-Config-Checker-</title>
-      <link>https://github.com/YellowLaborerMarket/Gemini-Config-Checker-</link>
-      <description>MCP / 协议生态 / 模型 / 推理加速 · Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) </description>
-      <pubDate>Sun, 15 Nov 2026 16:48:18 GMT</pubDate>
+      <title>[GitHub] Developing-Gamer/agent-sim</title>
+      <link>https://github.com/Developing-Gamer/agent-sim</link>
+      <description>Agent / 自动化 / MCP / 协议生态 · iOS simulators for AI agents, on Linux. The agent layer for x86Sim.</description>
+      <pubDate>Sat, 21 Nov 2026 20:26:12 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] weightcashiercupola/Gemini-Config-Checker-</title>
-      <link>https://github.com/weightcashiercupola/Gemini-Config-Checker-</link>
-      <description>MCP / 协议生态 / 模型 / 推理加速 · Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) </description>
-      <pubDate>Sun, 15 Nov 2026 16:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[GitHub] WinnerSpecialist/Gemini-Config-Checker-</title>
-      <link>https://github.com/WinnerSpecialist/Gemini-Config-Checker-</link>
-      <description>MCP / 协议生态 / 模型 / 推理加速 · Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) </description>
-      <pubDate>Sun, 15 Nov 2026 16:47:17 GMT</pubDate>
+      <title>[GitHub] w01fb0ss/PiBot</title>
+      <link>https://github.com/w01fb0ss/PiBot</link>
+      <description>Agent / 自动化 / MCP / 协议生态 · Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.</description>
+      <pubDate>Sat, 21 Nov 2026 06:54:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
