@@ -1,25 +1,25 @@
-🔥 海外 AI 一手信息差日报（2026-11-25）
+🔥 海外 AI 一手信息差日报（2026-11-26）
 
 今天英文技术圈最值得抄作业的 5 个新动态：
 
-1. 【Agent / 自动化】erkamyaman/rust-anything（⭐ 9308）
-   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every
-   https://github.com/erkamyaman/rust-anything
-
-2. 【Agent / 自动化】EL4CTEO/fast-anything（⭐ 3686）
+1. 【Agent / 自动化】EL4CTEO/fast-anything（⭐ 4041）
    Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot function
    https://github.com/EL4CTEO/fast-anything
 
-3. 【Agent / 自动化】sybil-solutions/inference-optimisation-skill（⭐ 2603）
-   Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTF
-   https://github.com/sybil-solutions/inference-optimisation-skill
-
-4. 【模型 / 推理加速】iamajmeena/neonclipping（⭐ 2516）
+2. 【模型 / 推理加速】iamajmeena/neonclipping（⭐ 2637）
    Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTu
    https://github.com/iamajmeena/neonclipping
 
-5. 【Agent / 自动化】pierridotite/mobile-agent-testers（⭐ 1912）
-   20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulat
-   https://github.com/pierridotite/mobile-agent-testers
+3. 【Agent / 自动化】INK-Q/agy-fast（⭐ 1549）
+   Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quo
+   https://github.com/INK-Q/agy-fast
+
+4. 【MCP / 协议生态】qianyiai/kurocat（⭐ 1086）
+   KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + 
+   https://github.com/qianyiai/kurocat
+
+5. 【Agent / 自动化】danielwh2/sprite-stacking（⭐ 941）
+   Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Curso
+   https://github.com/danielwh2/sprite-stacking
 
 完整实时榜单 & RSS 订阅：https://teylerboal-dev.github.io/ai-alpha-cn/
