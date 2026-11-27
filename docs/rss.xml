@@ -4,7 +4,7 @@
     <title>AI Alpha CN · 海外 AI 一手信息差日报</title>
     <link>https://teylerboal-dev.github.io/ai-alpha-cn/</link>
     <description>每日自动抓取海外 GitHub 新晋 AI 爆款与 Hacker News 前沿热议，专为中文开发者与独立变现者打造。</description>
-    <lastBuildDate>Thu, 26 Nov 2026 05:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:14:31 GMT</lastBuildDate>
     <item>
       <title>[GitHub] EL4CTEO/fast-anything</title>
       <link>https://github.com/EL4CTEO/fast-anything</link>
@@ -24,10 +24,22 @@
       <pubDate>Thu, 19 Nov 2026 04:58:46 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] qianyiai/kurocat</title>
-      <link>https://github.com/qianyiai/kurocat</link>
+      <title>[GitHub] alesha-pro/llm.asm</title>
+      <link>https://github.com/alesha-pro/llm.asm</link>
+      <description>模型 / 推理加速 · Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.</description>
+      <pubDate>Wed, 25 Nov 2026 07:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[GitHub] qianyiai/KuroCat</title>
+      <link>https://github.com/qianyiai/KuroCat</link>
       <description>MCP / 协议生态 / AI 编程工具 · KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣</description>
       <pubDate>Sat, 21 Nov 2026 15:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[GitHub] nexu-io/opengame</title>
+      <link>https://github.com/nexu-io/opengame</link>
+      <description>Agent / 自动化 / MCP / 协议生态 · The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D &amp; mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.</description>
+      <pubDate>Wed, 25 Nov 2026 10:35:45 GMT</pubDate>
     </item>
     <item>
       <title>[GitHub] danielwh2/sprite-stacking</title>
@@ -42,22 +54,28 @@
       <pubDate>Fri, 20 Nov 2026 11:01:20 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] erkamyaman/safe-anything</title>
-      <link>https://github.com/erkamyaman/safe-anything</link>
-      <description>Agent / 自动化 / MCP / 协议生态 · Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.</description>
-      <pubDate>Sun, 22 Nov 2026 16:44:10 GMT</pubDate>
-    </item>
-    <item>
       <title>[GitHub] xikhar/papercraft</title>
       <link>https://github.com/xikhar/papercraft</link>
       <description>Agent / 自动化 / MCP / 协议生态 · Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style</description>
       <pubDate>Sat, 21 Nov 2026 00:29:56 GMT</pubDate>
     </item>
     <item>
+      <title>[GitHub] erkamyaman/safe-anything</title>
+      <link>https://github.com/erkamyaman/safe-anything</link>
+      <description>Agent / 自动化 / MCP / 协议生态 · Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.</description>
+      <pubDate>Sun, 22 Nov 2026 16:44:10 GMT</pubDate>
+    </item>
+    <item>
       <title>[GitHub] ThreatDefence/agentic-attack-detections</title>
       <link>https://github.com/ThreatDefence/agentic-attack-detections</link>
       <description>Agent / 自动化 / 模型 / 推理加速 · Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.</description>
       <pubDate>Fri, 20 Nov 2026 00:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[GitHub] chanke17/KuroCat</title>
+      <link>https://github.com/chanke17/KuroCat</link>
+      <description>MCP / 协议生态 · KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）</description>
+      <pubDate>Mon, 23 Nov 2026 01:06:18 GMT</pubDate>
     </item>
     <item>
       <title>[GitHub] w01fb0ss/PiBot</title>
@@ -76,24 +94,6 @@
       <link>https://github.com/hoangsvit/google-ai</link>
       <description>模型 / 推理加速 · A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.</description>
       <pubDate>Wed, 18 Nov 2026 15:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[GitHub] chanke17/KuroCat</title>
-      <link>https://github.com/chanke17/KuroCat</link>
-      <description>MCP / 协议生态 · KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）</description>
-      <pubDate>Mon, 23 Nov 2026 01:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[GitHub] JimLiu/open-artifact</title>
-      <link>https://github.com/JimLiu/open-artifact</link>
-      <description>Agent / 自动化 / MCP / 协议生态 · Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.</description>
-      <pubDate>Tue, 17 Nov 2026 02:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[GitHub] alesha-pro/llm.asm</title>
-      <link>https://github.com/alesha-pro/llm.asm</link>
-      <description>模型 / 推理加速 · Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.</description>
-      <pubDate>Wed, 25 Nov 2026 07:28:51 GMT</pubDate>
     </item>
   </channel>
 </rss>

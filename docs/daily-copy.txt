@@ -1,25 +1,25 @@
-🔥 海外 AI 一手信息差日报（2026-11-26）
+🔥 海外 AI 一手信息差日报（2026-11-27）
 
 今天英文技术圈最值得抄作业的 5 个新动态：
 
-1. 【Agent / 自动化】EL4CTEO/fast-anything（⭐ 4041）
+1. 【Agent / 自动化】EL4CTEO/fast-anything（⭐ 4285）
    Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot function
    https://github.com/EL4CTEO/fast-anything
 
-2. 【模型 / 推理加速】iamajmeena/neonclipping（⭐ 2637）
+2. 【模型 / 推理加速】iamajmeena/neonclipping（⭐ 2750）
    Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTu
    https://github.com/iamajmeena/neonclipping
 
-3. 【Agent / 自动化】INK-Q/agy-fast（⭐ 1549）
+3. 【Agent / 自动化】INK-Q/agy-fast（⭐ 1767）
    Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quo
    https://github.com/INK-Q/agy-fast
 
-4. 【MCP / 协议生态】qianyiai/kurocat（⭐ 1086）
-   KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + 
-   https://github.com/qianyiai/kurocat
+4. 【模型 / 推理加速】alesha-pro/llm.asm（⭐ 1663）
+   Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Brai
+   https://github.com/alesha-pro/llm.asm
 
-5. 【Agent / 自动化】danielwh2/sprite-stacking（⭐ 941）
-   Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Curso
-   https://github.com/danielwh2/sprite-stacking
+5. 【MCP / 协议生态】qianyiai/KuroCat（⭐ 1506）
+   KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + 
+   https://github.com/qianyiai/KuroCat
 
 完整实时榜单 & RSS 订阅：https://teylerboal-dev.github.io/ai-alpha-cn/
