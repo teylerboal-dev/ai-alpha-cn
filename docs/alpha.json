@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T05:14:31.465Z",
+  "generatedAt": "2026-11-28T04:52:32.193Z",
   "counts": {
     "github": 15,
     "hn": 0,
@@ -10,12 +10,12 @@
       "id": "gh-1466635339",
       "source": "GitHub",
       "title": "EL4CTEO/fast-anything",
-      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
       "url": "https://github.com/EL4CTEO/fast-anything",
       "language": "Rust",
-      "stars": 4285,
+      "stars": 4512,
       "points": 0,
-      "comments": 3,
+      "comments": 2,
       "publishedAt": "2026-11-21T14:40:27Z",
       "tags": [
         "Agent / 自动化",
@@ -30,9 +30,9 @@
       "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "url": "https://github.com/iamajmeena/neonclipping",
       "language": "Python",
-      "stars": 2750,
+      "stars": 2939,
       "points": 0,
-      "comments": 51,
+      "comments": 56,
       "publishedAt": "2026-11-19T10:00:43Z",
       "tags": [
         "模型 / 推理加速"
@@ -40,16 +40,16 @@
       "alphaScore": 100
     },
     {
-      "id": "gh-1463683138",
+      "id": "gh-1471624301",
       "source": "GitHub",
-      "title": "INK-Q/agy-fast",
-      "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "url": "https://github.com/INK-Q/agy-fast",
+      "title": "nexu-io/opengame",
+      "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "url": "https://github.com/nexu-io/opengame",
       "language": "TypeScript",
-      "stars": 1767,
+      "stars": 2407,
       "points": 0,
-      "comments": 22,
-      "publishedAt": "2026-11-19T04:58:46Z",
+      "comments": 76,
+      "publishedAt": "2026-11-25T10:35:45Z",
       "tags": [
         "Agent / 自动化",
         "MCP / 协议生态"
@@ -63,12 +63,29 @@
       "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
       "url": "https://github.com/alesha-pro/llm.asm",
       "language": "Assembly",
-      "stars": 1663,
+      "stars": 2305,
       "points": 0,
-      "comments": 18,
+      "comments": 24,
       "publishedAt": "2026-11-25T07:28:51Z",
       "tags": [
         "模型 / 推理加速"
+      ],
+      "alphaScore": 100
+    },
+    {
+      "id": "gh-1463683138",
+      "source": "GitHub",
+      "title": "INK-Q/agy-fast",
+      "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "language": "TypeScript",
+      "stars": 2021,
+      "points": 0,
+      "comments": 26,
+      "publishedAt": "2026-11-19T04:58:46Z",
+      "tags": [
+        "Agent / 自动化",
+        "MCP / 协议生态"
       ],
       "alphaScore": 100
     },
@@ -79,30 +96,13 @@
       "summary": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
       "url": "https://github.com/qianyiai/KuroCat",
       "language": "TypeScript",
-      "stars": 1506,
+      "stars": 1798,
       "points": 0,
-      "comments": 52,
+      "comments": 73,
       "publishedAt": "2026-11-21T15:49:31Z",
       "tags": [
         "MCP / 协议生态",
         "AI 编程工具"
-      ],
-      "alphaScore": 100
-    },
-    {
-      "id": "gh-1471624301",
-      "source": "GitHub",
-      "title": "nexu-io/opengame",
-      "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
-      "url": "https://github.com/nexu-io/opengame",
-      "language": "TypeScript",
-      "stars": 1310,
-      "points": 0,
-      "comments": 11,
-      "publishedAt": "2026-11-25T10:35:45Z",
-      "tags": [
-        "Agent / 自动化",
-        "MCP / 协议生态"
       ],
       "alphaScore": 100
     },
@@ -113,7 +113,7 @@
       "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
       "url": "https://github.com/danielwh2/sprite-stacking",
       "language": "HTML",
-      "stars": 1047,
+      "stars": 1101,
       "points": 0,
       "comments": 1,
       "publishedAt": "2026-11-20T14:32:43Z",
@@ -121,24 +121,7 @@
         "Agent / 自动化",
         "MCP / 协议生态"
       ],
-      "alphaScore": 99
-    },
-    {
-      "id": "gh-1465322684",
-      "source": "GitHub",
-      "title": "sous-labs/songe",
-      "summary": "A training engine for your local model, using your idle compute",
-      "url": "https://github.com/sous-labs/songe",
-      "language": "Python",
-      "stars": 910,
-      "points": 0,
-      "comments": 19,
-      "publishedAt": "2026-11-20T11:01:20Z",
-      "tags": [
-        "Agent / 自动化",
-        "AI 编程工具"
-      ],
-      "alphaScore": 97
+      "alphaScore": 100
     },
     {
       "id": "gh-1466035287",
@@ -147,7 +130,7 @@
       "summary": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
       "url": "https://github.com/xikhar/papercraft",
       "language": "JavaScript",
-      "stars": 838,
+      "stars": 987,
       "points": 0,
       "comments": 2,
       "publishedAt": "2026-11-21T00:29:56Z",
@@ -155,7 +138,24 @@
         "Agent / 自动化",
         "MCP / 协议生态"
       ],
-      "alphaScore": 96
+      "alphaScore": 98
+    },
+    {
+      "id": "gh-1465322684",
+      "source": "GitHub",
+      "title": "sous-labs/songe",
+      "summary": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "language": "Python",
+      "stars": 927,
+      "points": 0,
+      "comments": 24,
+      "publishedAt": "2026-11-20T11:01:20Z",
+      "tags": [
+        "Agent / 自动化",
+        "AI 编程工具"
+      ],
+      "alphaScore": 98
     },
     {
       "id": "gh-1467769720",
@@ -164,9 +164,9 @@
       "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
       "url": "https://github.com/erkamyaman/safe-anything",
       "language": "Rust",
-      "stars": 796,
+      "stars": 836,
       "points": 0,
-      "comments": 10,
+      "comments": 24,
       "publishedAt": "2026-11-22T16:44:10Z",
       "tags": [
         "Agent / 自动化",
@@ -181,13 +181,29 @@
       "summary": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
       "url": "https://github.com/ThreatDefence/agentic-attack-detections",
       "language": "Python",
-      "stars": 753,
+      "stars": 797,
       "points": 0,
       "comments": 3,
       "publishedAt": "2026-11-20T00:06:24Z",
       "tags": [
         "Agent / 自动化",
         "模型 / 推理加速"
+      ],
+      "alphaScore": 96
+    },
+    {
+      "id": "gh-1473500322",
+      "source": "GitHub",
+      "title": "gary23w/f-ck_data_brokers",
+      "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "language": "Python",
+      "stars": 788,
+      "points": 0,
+      "comments": 1,
+      "publishedAt": "2026-11-26T17:53:07Z",
+      "tags": [
+        "MCP / 协议生态"
       ],
       "alphaScore": 95
     },
@@ -198,14 +214,30 @@
       "summary": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
       "url": "https://github.com/chanke17/KuroCat",
       "language": "C++",
-      "stars": 704,
+      "stars": 773,
       "points": 0,
-      "comments": 17,
+      "comments": 22,
       "publishedAt": "2026-11-23T01:06:18Z",
       "tags": [
         "MCP / 协议生态"
       ],
-      "alphaScore": 94
+      "alphaScore": 95
+    },
+    {
+      "id": "gh-1474588528",
+      "source": "GitHub",
+      "title": "Red2076-arch/waifu2x-image-upscaler-windows",
+      "summary": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+      "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+      "language": "C++",
+      "stars": 753,
+      "points": 0,
+      "comments": 0,
+      "publishedAt": "2026-11-27T15:17:56Z",
+      "tags": [
+        "前沿开源"
+      ],
+      "alphaScore": 95
     },
     {
       "id": "gh-1466272233",
@@ -214,48 +246,15 @@
       "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
       "url": "https://github.com/w01fb0ss/PiBot",
       "language": "TypeScript",
-      "stars": 660,
+      "stars": 684,
       "points": 0,
-      "comments": 5,
+      "comments": 6,
       "publishedAt": "2026-11-21T06:54:24Z",
       "tags": [
         "Agent / 自动化",
         "MCP / 协议生态"
       ],
       "alphaScore": 93
-    },
-    {
-      "id": "gh-1466927775",
-      "source": "GitHub",
-      "title": "Developing-Gamer/agent-sim",
-      "summary": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "url": "https://github.com/Developing-Gamer/agent-sim",
-      "language": "Rust",
-      "stars": 616,
-      "points": 0,
-      "comments": 3,
-      "publishedAt": "2026-11-21T20:26:12Z",
-      "tags": [
-        "Agent / 自动化",
-        "MCP / 协议生态"
-      ],
-      "alphaScore": 92
-    },
-    {
-      "id": "gh-1462968997",
-      "source": "GitHub",
-      "title": "hoangsvit/google-ai",
-      "summary": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
-      "url": "https://github.com/hoangsvit/google-ai",
-      "language": "Python",
-      "stars": 614,
-      "points": 0,
-      "comments": 14,
-      "publishedAt": "2026-11-18T15:17:53Z",
-      "tags": [
-        "模型 / 推理加速"
-      ],
-      "alphaScore": 92
     }
   ]
 }

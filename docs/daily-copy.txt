@@ -1,25 +1,25 @@
-🔥 海外 AI 一手信息差日报（2026-11-27）
+🔥 海外 AI 一手信息差日报（2026-11-28）
 
 今天英文技术圈最值得抄作业的 5 个新动态：
 
-1. 【Agent / 自动化】EL4CTEO/fast-anything（⭐ 4285）
-   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot function
+1. 【Agent / 自动化】EL4CTEO/fast-anything（⭐ 4512）
+   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your codin
    https://github.com/EL4CTEO/fast-anything
 
-2. 【模型 / 推理加速】iamajmeena/neonclipping（⭐ 2750）
+2. 【模型 / 推理加速】iamajmeena/neonclipping（⭐ 2939）
    Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTu
    https://github.com/iamajmeena/neonclipping
 
-3. 【Agent / 自动化】INK-Q/agy-fast（⭐ 1767）
-   Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quo
-   https://github.com/INK-Q/agy-fast
+3. 【Agent / 自动化】nexu-io/opengame（⭐ 2407）
+   The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agent
+   https://github.com/nexu-io/opengame
 
-4. 【模型 / 推理加速】alesha-pro/llm.asm（⭐ 1663）
+4. 【模型 / 推理加速】alesha-pro/llm.asm（⭐ 2305）
    Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Brai
    https://github.com/alesha-pro/llm.asm
 
-5. 【MCP / 协议生态】qianyiai/KuroCat（⭐ 1506）
-   KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + 
-   https://github.com/qianyiai/KuroCat
+5. 【Agent / 自动化】INK-Q/agy-fast（⭐ 2021）
+   Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quo
+   https://github.com/INK-Q/agy-fast
 
 完整实时榜单 & RSS 订阅：https://teylerboal-dev.github.io/ai-alpha-cn/

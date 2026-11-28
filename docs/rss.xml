@@ -4,11 +4,11 @@
     <title>AI Alpha CN · 海外 AI 一手信息差日报</title>
     <link>https://teylerboal-dev.github.io/ai-alpha-cn/</link>
     <description>每日自动抓取海外 GitHub 新晋 AI 爆款与 Hacker News 前沿热议，专为中文开发者与独立变现者打造。</description>
-    <lastBuildDate>Fri, 27 Nov 2026 05:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:52:32 GMT</lastBuildDate>
     <item>
       <title>[GitHub] EL4CTEO/fast-anything</title>
       <link>https://github.com/EL4CTEO/fast-anything</link>
-      <description>Agent / 自动化 / MCP / 协议生态 · Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.</description>
+      <description>Agent / 自动化 / MCP / 协议生态 · Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.</description>
       <pubDate>Sat, 21 Nov 2026 14:40:27 GMT</pubDate>
     </item>
     <item>
@@ -18,10 +18,10 @@
       <pubDate>Thu, 19 Nov 2026 10:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] INK-Q/agy-fast</title>
-      <link>https://github.com/INK-Q/agy-fast</link>
-      <description>Agent / 自动化 / MCP / 协议生态 · Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.</description>
-      <pubDate>Thu, 19 Nov 2026 04:58:46 GMT</pubDate>
+      <title>[GitHub] nexu-io/opengame</title>
+      <link>https://github.com/nexu-io/opengame</link>
+      <description>Agent / 自动化 / MCP / 协议生态 · The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D &amp; mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.</description>
+      <pubDate>Wed, 25 Nov 2026 10:35:45 GMT</pubDate>
     </item>
     <item>
       <title>[GitHub] alesha-pro/llm.asm</title>
@@ -30,16 +30,16 @@
       <pubDate>Wed, 25 Nov 2026 07:28:51 GMT</pubDate>
     </item>
     <item>
+      <title>[GitHub] INK-Q/agy-fast</title>
+      <link>https://github.com/INK-Q/agy-fast</link>
+      <description>Agent / 自动化 / MCP / 协议生态 · Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.</description>
+      <pubDate>Thu, 19 Nov 2026 04:58:46 GMT</pubDate>
+    </item>
+    <item>
       <title>[GitHub] qianyiai/KuroCat</title>
       <link>https://github.com/qianyiai/KuroCat</link>
       <description>MCP / 协议生态 / AI 编程工具 · KuroCat — Free open-source 3D/2D desktop typing cat &amp; AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣</description>
       <pubDate>Sat, 21 Nov 2026 15:49:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[GitHub] nexu-io/opengame</title>
-      <link>https://github.com/nexu-io/opengame</link>
-      <description>Agent / 自动化 / MCP / 协议生态 · The Super Game Agent — the Unity &amp; Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D &amp; mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.</description>
-      <pubDate>Wed, 25 Nov 2026 10:35:45 GMT</pubDate>
     </item>
     <item>
       <title>[GitHub] danielwh2/sprite-stacking</title>
@@ -48,16 +48,16 @@
       <pubDate>Fri, 20 Nov 2026 14:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>[GitHub] sous-labs/songe</title>
-      <link>https://github.com/sous-labs/songe</link>
-      <description>Agent / 自动化 / AI 编程工具 · A training engine for your local model, using your idle compute</description>
-      <pubDate>Fri, 20 Nov 2026 11:01:20 GMT</pubDate>
-    </item>
-    <item>
       <title>[GitHub] xikhar/papercraft</title>
       <link>https://github.com/xikhar/papercraft</link>
       <description>Agent / 自动化 / MCP / 协议生态 · Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style</description>
       <pubDate>Sat, 21 Nov 2026 00:29:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[GitHub] sous-labs/songe</title>
+      <link>https://github.com/sous-labs/songe</link>
+      <description>Agent / 自动化 / AI 编程工具 · A training engine for your local model, using your idle compute</description>
+      <pubDate>Fri, 20 Nov 2026 11:01:20 GMT</pubDate>
     </item>
     <item>
       <title>[GitHub] erkamyaman/safe-anything</title>
@@ -72,28 +72,28 @@
       <pubDate>Fri, 20 Nov 2026 00:06:24 GMT</pubDate>
     </item>
     <item>
+      <title>[GitHub] gary23w/f-ck_data_brokers</title>
+      <link>https://github.com/gary23w/f-ck_data_brokers</link>
+      <description>MCP / 协议生态 · fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.</description>
+      <pubDate>Thu, 26 Nov 2026 17:53:07 GMT</pubDate>
+    </item>
+    <item>
       <title>[GitHub] chanke17/KuroCat</title>
       <link>https://github.com/chanke17/KuroCat</link>
       <description>MCP / 协议生态 · KuroCat — Free open-source native desktop cat pet &amp; OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）</description>
       <pubDate>Mon, 23 Nov 2026 01:06:18 GMT</pubDate>
     </item>
     <item>
+      <title>[GitHub] Red2076-arch/waifu2x-image-upscaler-windows</title>
+      <link>https://github.com/Red2076-arch/waifu2x-image-upscaler-windows</link>
+      <description>前沿开源 · Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.</description>
+      <pubDate>Fri, 27 Nov 2026 15:17:56 GMT</pubDate>
+    </item>
+    <item>
       <title>[GitHub] w01fb0ss/PiBot</title>
       <link>https://github.com/w01fb0ss/PiBot</link>
       <description>Agent / 自动化 / MCP / 协议生态 · Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.</description>
       <pubDate>Sat, 21 Nov 2026 06:54:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[GitHub] Developing-Gamer/agent-sim</title>
-      <link>https://github.com/Developing-Gamer/agent-sim</link>
-      <description>Agent / 自动化 / MCP / 协议生态 · iOS simulators for AI agents, on Linux. The agent layer for x86Sim.</description>
-      <pubDate>Sat, 21 Nov 2026 20:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[GitHub] hoangsvit/google-ai</title>
-      <link>https://github.com/hoangsvit/google-ai</link>
-      <description>模型 / 推理加速 · A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.</description>
-      <pubDate>Wed, 18 Nov 2026 15:17:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
